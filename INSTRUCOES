@@ -1,0 +1,8 @@
+# collectmetrics
+
+***************
+1. Run the following command to generate a stats file of the server (replacing the CAPITAL lettered words with its value in your deployment):
+2. mongo HOST:PORT/admin -u ADMIN_USER -p ADMIN_PASSWORD getMongoData.js > getMongoData.log
+
+renomear o arquivo getMongoData.js.renomear para getMongoData.js
+***************
